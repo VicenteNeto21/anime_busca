@@ -1,7 +1,7 @@
 # Buscador de animes:
 - Liguagem usada para este foi a JS
 # Criador:
-- Vicente Neto
+-Vicente Neto
 # Version:
 - 1.0.0 Beta
 # API Usada:
