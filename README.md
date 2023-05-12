@@ -1,5 +1,5 @@
 # Buscador de animes:
-- Liguagem usada para este foi a JS
+- Linguagem ultilizada para este foi projeto foi React JS
 # Criador:
 - Vicente Neto
 # Version:
